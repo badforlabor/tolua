@@ -1,0 +1,6 @@
+*.suo
+*.sdf
+*.filters
+*.user
+Debug/
+Release/

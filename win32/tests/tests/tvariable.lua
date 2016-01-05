@@ -1,0 +1,2 @@
+
+print( "tvariable i : " .. i )
